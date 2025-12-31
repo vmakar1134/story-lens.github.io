@@ -60,7 +60,6 @@ This permission is used strictly for app functionality.
 
 ## Children’s Privacy
 
-The App is **not intended for children under the age of 13**.
 The App does not knowingly collect personal information from children.
 
 ---
@@ -84,4 +83,4 @@ Any changes will be reflected on this page with an updated revision date.
 
 If you have any questions about this Privacy Policy, you can contact:
 
-**Email:** your-email@example.com
+**Email:** vmakar1134@gmail.com
